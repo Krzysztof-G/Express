@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    display: none;
+}
+
+p{
+    font-weight: lighter;
+    font-style: italic;
+}
